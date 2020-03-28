@@ -5,6 +5,8 @@
 
 Bloques y dispositivos para modulo Esp8266-Esp-01 - WIFI.
 
+-> [Documentación de la Colleccion](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/README.md)
+
 ## Install
 
 * Descargar la colección: [development]()
@@ -13,14 +15,14 @@ Bloques y dispositivos para modulo Esp8266-Esp-01 - WIFI.
 
 ## Blocks
 * *Device*
-  * Serial-rx
+  * Esp8266-ESP01-Mode station
 * *Others*
   * *Getc*
     * Char_detect
 
 ## Examples
-* *Conexion*
-
+* *Conexión*
+  * Conexión serial básica
 * *Getc*
   * char_detect
 
